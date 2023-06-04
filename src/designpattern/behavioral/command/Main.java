@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Lamp lamp = new Lamp();
         Command lampOnCommand = new LampOnCommand(lamp);
+
         Alarm alarm = new Alarm();
         Command alarmStartCommand = new AlarmStartCommand(alarm);
 
