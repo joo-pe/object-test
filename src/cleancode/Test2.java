@@ -4,7 +4,7 @@ package cleancode;
  * if 문 없애보기
  */
 
-public class HolsuCheck {
+public class Test2 {
 
     /**
      * @title 홀짝 체크

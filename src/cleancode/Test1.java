@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * 1 injent 코딩하기
  */
-public class HolsuTest1 {
+public class Test1 {
 
     public void holjjakVer1() {
         System.out.println("1 : 홀, 2 : 짝, 그외 : 종료");
