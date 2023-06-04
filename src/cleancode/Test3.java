@@ -21,7 +21,7 @@ public class Test3 {
         }
     }
 
-    public class Car() {
+    public static class Car {
 
     }
 }
