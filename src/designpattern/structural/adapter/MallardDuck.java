@@ -1,6 +1,6 @@
 package designpattern.structural.adapter;
 
-public class MallarDuck implements Duck{
+public class MallardDuck implements Duck{
 
     @Override
     public void quack() {
